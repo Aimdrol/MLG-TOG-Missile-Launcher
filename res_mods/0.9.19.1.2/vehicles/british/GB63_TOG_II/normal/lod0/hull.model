@@ -1,0 +1,110 @@
+<Hull.model>
+	<action>
+		<name>	Opened	</name>
+		<animation>	Opened	</animation>
+		<filler>	true	</filler>
+		<blendInTime>	0.000000	</blendInTime>
+		<blendOutTime>	0.000000	</blendOutTime>
+	</action>
+	<action>
+		<name>	ReadyToFire	</name>
+		<animation>	ReadyToFire	</animation>
+		<filler>	true	</filler>
+		<blendInTime>	0.000000	</blendInTime>
+		<blendOutTime>	0.000000	</blendOutTime>
+	</action>
+	<action>
+		<name>	TakeIn	</name>
+		<animation>	TakeIn	</animation>
+		<blendInTime>	0.300000	</blendInTime>
+		<blendOutTime>	0.000000	</blendOutTime>
+	</action>
+	<action>
+		<name>	TakeOut	</name>
+		<animation>	TakeOut	</animation>
+		<blendInTime>	0.300000	</blendInTime>
+		<blendOutTime>	0.000000	</blendOutTime>
+	</action>
+	<action>
+		<name>	Close	</name>
+		<animation>	Close	</animation>
+		<blendInTime>	0.000000	</blendInTime>
+		<blendOutTime>	0.000000	</blendOutTime>
+	</action>
+	<action>
+		<name>	Open	</name>
+		<animation>	Open	</animation>
+		<blendInTime>	0.000000	</blendInTime>
+		<blendOutTime>	0.000000	</blendOutTime>
+	</action>
+	<action>
+		<name>	Idle	</name>
+		<animation>	Idle	</animation>
+		<filler>	true	</filler>
+		<blendInTime>	0.000000	</blendInTime>
+		<blendOutTime>	0.000000	</blendOutTime>
+	</action>
+	<metaData>
+		<sourceFile>	F:/BW210/fantasydemo/res/hull.mb	</sourceFile>
+		<computer>	ROBINPC	</computer>
+		<created_by>	Robin	</created_by>
+		<created_on>	1425055622	</created_on>
+		<modified_by>	Robin	</modified_by>
+		<modified_on>	1425055867	</modified_on>
+	</metaData>
+	<nodefullVisual>	vehicles/british/GB63_TOG_II/normal/lod0/Hull	</nodefullVisual>
+	<materialNames>	</materialNames>
+	<animation>
+		<name>	Idle	</name>
+		<frameRate>	30.000000	</frameRate>
+		<nodes>	vehicles/british/GB63_TOG_II/normal/lod0/hull	</nodes>
+		<firstFrame>	0	</firstFrame>
+		<lastFrame>	0	</lastFrame>
+	</animation>
+	<animation>
+		<name>	Open	</name>
+		<frameRate>	30.000000	</frameRate>
+		<nodes>	vehicles/british/GB63_TOG_II/normal/lod0/hull	</nodes>
+		<firstFrame>	0	</firstFrame>
+		<lastFrame>	80	</lastFrame>
+	</animation>
+	<animation>
+		<name>	Close	</name>
+		<frameRate>	30.000000	</frameRate>
+		<nodes>	vehicles/british/GB63_TOG_II/normal/lod0/hull	</nodes>
+		<firstFrame>	80	</firstFrame>
+		<lastFrame>	0	</lastFrame>
+	</animation>
+	<animation>
+		<name>	TakeOut	</name>
+		<frameRate>	30.000000	</frameRate>
+		<nodes>	vehicles/british/GB63_TOG_II/normal/lod0/hull	</nodes>
+		<firstFrame>	80	</firstFrame>
+		<lastFrame>	230	</lastFrame>
+	</animation>
+	<animation>
+		<name>	TakeIn	</name>
+		<frameRate>	30.000000	</frameRate>
+		<nodes>	vehicles/british/GB63_TOG_II/normal/lod0/hull	</nodes>
+		<firstFrame>	230	</firstFrame>
+		<lastFrame>	80	</lastFrame>
+	</animation>
+	<animation>
+		<name>	ReadyToFire	</name>
+		<frameRate>	30.000000	</frameRate>
+		<nodes>	vehicles/british/GB63_TOG_II/normal/lod0/hull	</nodes>
+		<firstFrame>	230	</firstFrame>
+		<lastFrame>	230	</lastFrame>
+	</animation>
+	<animation>
+		<name>	Opened	</name>
+		<frameRate>	30.000000	</frameRate>
+		<nodes>	vehicles/british/GB63_TOG_II/normal/lod0/hull	</nodes>
+		<firstFrame>	80	</firstFrame>
+		<lastFrame>	80	</lastFrame>
+	</animation>
+	<visibilityBox>
+		<min>	-1.561999 0.096699 -5.171641	</min>
+		<max>	1.562000 2.086599 4.710355	</max>
+	</visibilityBox>
+</Hull.model>

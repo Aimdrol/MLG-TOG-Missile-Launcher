@@ -1,0 +1,235 @@
+<Hull.visual>
+	<node>
+		 <identifier>Scene Root</identifier>
+    <transform>
+      <row0>	1.000000 0.000000 0.000000	</row0>
+      <row1>	0.000000 1.000000 0.000000	</row1>
+      <row2>	0.000000 0.000000 1.000000	</row2>
+      <row3>	0.000000 -0.900000 0.000000	</row3>
+    </transform>
+    <node>
+      <identifier>HP_Fire_1</identifier>
+      <transform>
+        <row0>	1.000000 0.000000 0.000000	</row0>
+        <row1>	0.000000 1.000000 0.000000	</row1>
+        <row2>	0.000000 0.000000 1.000000	</row2>
+        <row3>	0.016003 1.310840 -1.326654	</row3>
+      </transform>
+    </node>
+    <node>
+      <identifier>HP_Fire_2</identifier>
+      <transform>
+        <row0>	1.000000 0.000000 0.000000	</row0>
+        <row1>	0.000000 1.000000 0.000000	</row1>
+        <row2>	0.000000 0.000000 1.000000	</row2>
+        <row3>	-0.244973 1.306678 2.981558	</row3>
+      </transform>
+    </node>
+    <node>
+      <identifier>HP_TrackUp_LFront</identifier>
+      <transform>
+        <row0>	1.000000 0.000000 0.000000	</row0>
+        <row1>	0.000000 0.583866 0.811850	</row1>
+        <row2>	0.000000 -0.811850 0.583866	</row2>
+        <row3>	-1.036131 1.160969 4.767118	</row3>
+      </transform>
+    </node>
+    <node>
+      <identifier>HP_TrackUp_LRear</identifier>
+      <transform>
+        <row0>	-1.000000 0.000000 0.000000	</row0>
+        <row1>	0.000000 0.681852 -0.731490	</row1>
+        <row2>	0.000000 -0.731490 -0.681852	</row2>
+        <row3>	-1.036131 1.266951 -5.223065	</row3>
+      </transform>
+    </node>
+    <node>
+      <identifier>HP_TrackUp_RFront</identifier>
+      <transform>
+        <row0>	1.000000 0.000000 0.000000	</row0>
+        <row1>	0.000000 0.583866 0.811850	</row1>
+        <row2>	0.000000 -0.811850 0.583866	</row2>
+        <row3>	1.036130 1.160969 4.767118	</row3>
+      </transform>
+    </node>
+    <node>
+      <identifier>HP_TrackUp_RRear</identifier>
+      <transform>
+        <row0>	-1.000000 0.000000 0.000000	</row0>
+        <row1>	0.000000 0.681852 -0.731490	</row1>
+        <row2>	0.000000 -0.731490 -0.681852	</row2>
+        <row3>	1.036130 1.266951 -5.223065	</row3>
+      </transform>
+    </node>
+    <node>
+      <identifier>HP_Track_Exhaus_1</identifier>
+      <transform>
+        <row0>	1.000000 0.000000 0.000000	</row0>
+        <row1>	0.000000 -0.463309 -0.886197	</row1>
+        <row2>	0.000000 0.886197 -0.463309	</row2>
+        <row3>	1.081123 1.712455 -3.813620	</row3>
+      </transform>
+    </node>
+    <node>
+      <identifier>HP_Track_Exhaus_2</identifier>
+      <transform>
+        <row0>	1.000000 0.000000 0.000000	</row0>
+        <row1>	0.000000 -0.463311 -0.886195	</row1>
+        <row2>	0.000000 0.886195 -0.463311	</row2>
+        <row3>	-1.081000 1.712000 -3.814000	</row3>
+      </transform>
+    </node>
+    <node>
+      <identifier>HP_turretJoint</identifier>
+      <transform>
+        <row0>	1.000000 0.000000 0.000000	</row0>
+        <row1>	0.000000 1.000000 0.000000	</row1>
+        <row2>	0.000000 0.000000 1.000000	</row2>
+        <row3>	0.000000 1.973334 1.640317	</row3>
+      </transform>
+    </node>
+    <node>
+      <identifier>	lod0	</identifier>
+      <transform>
+        <row0>	1.000000 0.000000 0.000000	</row0>
+        <row1>	0.000000 1.000000 0.000000	</row1>
+        <row2>	0.000000 0.000000 1.000000	</row2>
+        <row3>	0.000000 0.000000 0.000000	</row3>
+      </transform>
+    </node>
+		<node>
+			<identifier>	hull	</identifier>
+			<transform>
+				<row0>	-1.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000	</row1>
+				<row2>	-0.000000 0.000000 -1.000000	</row2>
+				<row3>	0.000000 0.00000 0.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	group1	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000	</row2>
+					<row3>	-0.000000 -1.888013 1.741057	</row3>
+				</transform>
+				<node>
+					<identifier>	polySurface114	</identifier>
+					<transform>
+						<row0>	-1.000000 0.000000 0.000000	</row0>
+						<row1>	-0.000000 1.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 -1.000000	</row2>
+						<row3>	0.000000 0.000000 -0.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	insideBox	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	leftDoor	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	polySurface100	</identifier>
+					<transform>
+						<row0>	-1.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 -1.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	rightDoor	</identifier>
+				<transform>
+					<row0>	-1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	polySurface113	</identifier>
+					<transform>
+						<row0>	-1.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 -1.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000	</row3>
+					</transform>
+				</node>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	true	</treatAsWorldSpaceObject>
+		<node>	polySurface114	</node>
+		<geometry>
+			<vertices>	polySurfaceShape119.vertices	</vertices>
+			<primitive>	polySurfaceShape119.indices	</primitive>
+			 <primitiveGroup>	0	<material><identifier>s_nd_1_skinned</identifier><fx>shaders/std_effects/lightonly_skinned.fx</fx><collisionFlags>	0	</collisionFlags><materialKind>	0	</materialKind><property>alphaReference<Int>	0	</Int></property><property>alphaTestEnable<Bool>	false	</Bool></property><property>doubleSided<Bool>	false	</Bool></property><property>diffuseMap<Texture>vehicles/british/GB63_TOG_II/missleTex.dds</Texture></property></material></primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	true	</treatAsWorldSpaceObject>
+		<node>	insideBox	</node>
+		<geometry>
+			<vertices>	insideBoxShape.vertices	</vertices>
+			<primitive>	insideBoxShape.indices	</primitive>
+			 <primitiveGroup>	0	<material><identifier>s_nd_1_skinned</identifier><fx>shaders/std_effects/lightonly_skinned.fx</fx><collisionFlags>	0	</collisionFlags><materialKind>	0	</materialKind><property>alphaReference<Int>	0	</Int></property><property>alphaTestEnable<Bool>	false	</Bool></property><property>doubleSided<Bool>	false	</Bool></property><property>diffuseMap<Texture>vehicles/british/GB63_TOG_II/missleTex.dds</Texture></property></material></primitiveGroup>
+
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	true</treatAsWorldSpaceObject>
+		<node>	polySurface113	</node>
+		<geometry>
+			<vertices>	polySurfaceShape116.vertices	</vertices>
+			<primitive>	polySurfaceShape116.indices	</primitive>
+			<primitiveGroup>	0	<material><identifier>s_nd_1_skinned</identifier><fx>shaders/std_effects/lightonly_skinned.fx</fx><collisionFlags>	0	</collisionFlags><materialKind>	0	</materialKind><property>alphaReference<Int>	0	</Int></property><property>alphaTestEnable<Bool>	false	</Bool></property><property>doubleSided<Bool>	false	</Bool></property><property>diffuseMap<Texture>vehicles/british/GB63_TOG_II/TOG_II.dds</Texture></property></material></primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	true</treatAsWorldSpaceObject>
+		<node>	polySurface100	</node>
+		<geometry>
+			<vertices>	polySurfaceShape102.vertices	</vertices>
+			<primitive>	polySurfaceShape102.indices	</primitive>
+			  <primitiveGroup>	0	<material><identifier>s_nd_1_skinned</identifier><fx>shaders/std_effects/lightonly_skinned.fx</fx><collisionFlags>	0	</collisionFlags><materialKind>	0	</materialKind><property>alphaReference<Int>	0	</Int></property><property>alphaTestEnable<Bool>	false	</Bool></property><property>doubleSided<Bool>	false	</Bool></property><property>diffuseMap<Texture>vehicles/british/GB63_TOG_II/TOG_II.dds</Texture></property></material></primitiveGroup>
+
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	true	</treatAsWorldSpaceObject>
+		<node>	hull	</node>
+		<geometry>
+			<vertices>	hullShape.vertices	</vertices>
+			<primitive>	hullShape.indices	</primitive>
+ <primitiveGroup>	0	<material><identifier>s_nd_1_skinned</identifier><fx>shaders/std_effects/lightonly_skinned.fx</fx><collisionFlags>	0	</collisionFlags><materialKind>	0	</materialKind><property>alphaReference<Int>	0	</Int></property><property>alphaTestEnable<Bool>	false	</Bool></property><property>doubleSided<Bool>	false	</Bool></property><property>diffuseMap<Texture>vehicles/british/GB63_TOG_II/TOG_II.dds</Texture></property></material></primitiveGroup>
+
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	true	</treatAsWorldSpaceObject>
+		<node>	hull	</node>
+		<geometry>
+			<vertices>	hullShape.vertices	</vertices>
+			<primitive>	hullShape.indices	</primitive>
+ <primitiveGroup>	0	<material><identifier>s_nd_1_skinned</identifier><fx>shaders/std_effects/lightonly_skinned.fx</fx><collisionFlags>	0	</collisionFlags><materialKind>	0	</materialKind><property>alphaReference<Int>	0	</Int></property><property>alphaTestEnable<Bool>	false	</Bool></property><property>doubleSided<Bool>	false	</Bool></property><property>diffuseMap<Texture>vehicles/british/GB63_TOG_II/TOG_II.dds</Texture></property></material></primitiveGroup>
+
+		</geometry>
+	</renderSet>
+	<boundingBox>
+		<min>	-1.562000 0.096700 -5.167130	</min>
+		<max>	1.562000 2.054870 4.714869	</max>
+	</boundingBox>
+</Hull.visual>
