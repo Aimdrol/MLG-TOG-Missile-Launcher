@@ -158,7 +158,7 @@
         <defaultPool>	64	</defaultPool>
         <lowEnginePool>	48	</lowEnginePool>
         <preparedPool>	512	</preparedPool>
-        <streamingPool>	6	</streamingPool>
+        <streamingPool>	16	</streamingPool>
         <IOPoolSize>	24	</IOPoolSize>
       </memoryManager>
       <soundRender>
@@ -237,6 +237,12 @@
         </project>
         <project>
           <name>gui.bnk</name>
+        </project>
+        <project>
+          <name>gui_ranked_battles.bnk</name>
+        </project>
+        <project>
+          <name>gui_ranked_battles.pck</name>
         </project>
         <project>
           <name>ExternalMusicSources.bnk</name>
