@@ -68,7 +68,7 @@
   </animation>
   <screenShot>
     <extension>jpg</extension>
-    <name>	screenshots/shot	</name>
+    <name>../screenshots/shot</name>
   </screenShot>
   <superShot>
     <hRes>	4096	</hRes>
@@ -306,9 +306,6 @@
         <project>
           <name>researches.bnk</name>
         </project>
-        <project>
-          <name>ev_wot_fest_token_hangar.bnk</name>
-        </project>
       </SFX_soundbanks_hangar>
       <SFX_soundbanks_login>
         <project>
@@ -378,9 +375,6 @@
         </project>
         <project>
           <name>wheel_vehicle_GUI.bnk</name>
-        </project>
-        <project>
-          <name>ev_wot_fest_token_arena.bnk</name>
         </project>
       </SFX_soundbanks_arena>
       <SFX_soundbanks_editor>
